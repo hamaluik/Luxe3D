@@ -1,0 +1,8 @@
+{
+    "shaders" : [
+        { "id": "flatshaded", "frag_id": "assets/flatshaded.frag.glsl", "vert_id": "assets/flatshaded.vert.glsl" }
+    ],
+	"text": [
+		{ "id": "assets/test.ply" }
+	]
+}
