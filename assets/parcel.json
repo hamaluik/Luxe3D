@@ -1,8 +1,11 @@
 {
     "shaders" : [
-        { "id": "flatshaded", "frag_id": "assets/flatshaded.frag.glsl", "vert_id": "assets/flatshaded.vert.glsl" }
+        { "id": "flatshaded", "frag_id": "assets/flatshaded.frag.glsl", "vert_id": "assets/flatshaded.vert.glsl" },
+        { "id": "depth", "frag_id": "assets/depth.frag.glsl", "vert_id": "assets/depth.vert.glsl" }
     ],
 	"text": [
-		{ "id": "assets/test.ply" }
+		{ "id": "assets/test.ply" },
+		{ "id": "assets/waterplane.ply" },
+		{ "id": "assets/shadowpreview.ply" }
 	]
 }
